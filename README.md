@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Developement, Machine Learning**
 
-- 💬 Ask me about **Django, React, Flask**
+- 💬 Ask me about **Django, React, FastAPI**
 
 - 📫 How to reach me **paulsagar5433@gmail.com**
 
