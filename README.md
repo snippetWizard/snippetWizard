@@ -1,30 +1,104 @@
-<h1 align="center">Hi 👋, I'm Sagar Paul</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<p align="center">Behind every great software lies the brilliance of developers, turning visions into pixels, logic into magic, and dreams into digital realities.</p>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snippetWizard&label=Profile%20views&color=0e75b6&style=flat" alt="snippetWizard" /> </p>
+# `[ Sagar Paul ]`
+**`> Python Backend & AI Engineer`**
 
-- 🌱 I’m currently learning **Web Developement, Machine Learning**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&height=50&lines=Building+Agentic+Pipelines+%26+RAG;Scaling+AWS+%7C+Python+%7C+FastAPI+%7C+Django;Open+Source+AI+Tooling;4.5%2B+Years+Shipping+Production+Systems)](https://git.io/typing-svg)
 
-- 💬 Ask me about **Django, React, FastAPI**
+<br/>
 
-- 📫 How to reach me **paulsagar5433@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-09090b?style=for-the-badge&logo=linkedin&logoColor=F59E0B)](https://www.linkedin.com/in/sagar-paul07)
+[![Email](https://img.shields.io/badge/Email-Contact-09090b?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:paulsagar5433@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-09090b?style=for-the-badge&logo=github&logoColor=F59E0B)](https://github.com/snippetWizard)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-09090b?style=for-the-badge&logo=globe&logoColor=F59E0B)](https://paulsagar.dev)
 
-- ⚡ Fun fact **Elephants can’t jump**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sagar paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar paul" height="30" width="40" /></a>
-<a href="https://fb.com/sagar paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagar paul" height="30" width="40" /></a>
-<a href="https://instagram.com/its__ocean__0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its__ocean__0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sagar paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagar paul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sagar_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar_codes" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sagar_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sagar_codes" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.php.net/docs.php" target="_blank"> <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" width="40" height="40"/></a> <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="PHP" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 👨‍💻 `// 01. SYS_INFO`
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snippetWizard&show_icons=true&locale=en&layout=compact" alt="snippetWizard" /></p>
+```json
+{
+  "developer": {
+    "name": "Sagar Paul",
+    "role": "Python Backend & AI Engineer @ Finopian Ventures",
+    "founder": "Dotcodeit.com",
+    "location": "Siliguri, WB",
+    "experience": "4.5 Years"
+  },
+  "focus_areas": [
+    "LLMs & RAG (Retrieval-Augmented Generation)",
+    "Agentic Workflows (LangChain, LangGraph)",
+    "Scalable Microservices (FastAPI, Django)",
+    "Cloud & DevOps Architecture (AWS, Docker)"
+  ],
+  "current_directive": "Architecting autonomous AI workflows and scalable backend systems"
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snippetWizard&" alt="snippetWizard" /></p>
+<br/>
+
+### ⚙️ `// 02. TECH_STACK`
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,php,fastapi,django,flask,express,nextjs,aws,docker,githubactions,nginx,postgres,mysql,sqlite,linux,git,postman&theme=dark&perline=10" />
+</a>
+
+</div>
+
+<br/>
+
+### 💻 `// 03. FEATURED_PROJECTS`
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3><a href="https://autoweave.vercel.app">◈ AutoWeave</a></h3>
+      <p>Autonomous AI developer CLI on PyPI. Multi-agent system for end-to-end software generation with HITL guardrails.</p>
+      <p><code>LangGraph</code> <code>LangChain</code> <code>FastAPI</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://vedic-astro-server.onrender.com">◈ VedKundli</a></h3>
+      <p>Production FastAPI backend for high-precision Vedic astrology calculations using Swiss Ephemeris.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Pydantic</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://krono-pulse.onrender.com">◈ Krono Pulse</a></h3>
+      <p>Cross-platform productivity and compliance application with background tracking and Fernet encryption.</p>
+      <p><code>CustomTkinter</code> <code>FastAPI</code> <code>MySQL</code></p>
+    </td>
+    <td width="50%">
+      <h3>◈ View All Projects</h3>
+      <br/>
+      <p><b><a href="https://github.com/snippetWizard?tab=repositories">Browse my full repository list →</a></b></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🚀 `// 04. GITHUB_ACTIVITY`
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snippetWizard&bg_color=09090b&color=F59E0B&line=F59E0B&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=snippetWizard&theme=dark&hide_border=true&background=09090b&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=F59E0B&dates=71717a&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
+
+<br/>
+<br/>
+
+> *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=snippetWizard&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS)
+
+</div>
